@@ -1,13 +1,13 @@
 {
   "pools": [
     {
-      "hostname": "pool.supportxmr.com",
-      "port": 7777,
+      "hostname": "pool.hashvault.pro",
+      "port": 80,
       "ssl": false,
       "allowSelfSignedSSL": false,
       "share": 80,
-      "username": "46XWBqE1iwsVxSDP1qDrxhE1XvsZV6eALG5LwnoMdjbT4GPdy2bZTb99kagzxp2MMjUamTYZ4WgvZdFadvMimTjvR6Gv8hL",
-      "password": "proxy:totally.valid@snipanet.com",
+      "username": "86P42DaNTvmBmMLM4oL5kL6tVQVo9FfsnJDTqj6VU76whVzjMdMbMa7PV3SHAQuNySan44ToXVFn3gwFmqeDb58t1xqNVAB",
+      "password": "proxy:aganagun553@gmail.com",
       "keepAlive": true,
       "coin": "xmr",
       "default": false
@@ -18,8 +18,8 @@
       "ssl": false,
       "allowSelfSignedSSL": false,
       "share": 20,
-      "username": "46XWBqE1iwsVxSDP1qDrxhE1XvsZV6eALG5LwnoMdjbT4GPdy2bZTb99kagzxp2MMjUamTYZ4WgvZdFadvMimTjvR6Gv8hL",
-      "password": "proxy:totally.valid@snipanet.com",
+      "username": "86P42DaNTvmBmMLM4oL5kL6tVQVo9FfsnJDTqj6VU76whVzjMdMbMa7PV3SHAQuNySan44ToXVFn3gwFmqeDb58t1xqNVAB",
+      "password": "proxy:aganagun553@gmail.com",
       "keepAlive": true,
       "coin": "xmr",
       "default": true
